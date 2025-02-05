@@ -19,10 +19,21 @@ I'm currently studying to obtain my AWS Cloud Practitioner Certification.<br>I a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ccozan&icon=8&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Cybersecurity Journey
+<p> Attended Masterschool Cybersecurity Bootcamp from January 2023 to December 2023.</p>
+<p> I obtained my CompTIA Security+ on November 27, 2023</b>
+
+- I studied Security, IT, and Windows Foundations.</b>
+- I have experience with Linux Navigation and Commands, Networking Foundation, Network Protocols, Securit, and Monitoring.</b>
+- Studied some Cryptography, Windows Administration, and viewing System Logs.</b>
+- I'm familiar with attacks, threats, vulnerabilities, architecture and design, implementation, operation and incident response, governance, risk, and compliance.
+
+
 ## Cloud Journey
-I discovered cloud computing two years ago; I have been intrigued ever since. I am currently working on my AWS Cloud Practitioner Certification!
+<p>I discovered cloud computing two years ago; I have been intrigued ever since. I am currently working on my AWS Cloud Practitioner Certification!</p>
+<p> My ultimate goal is to obviously start in an entry-level role and eventually work as a Cloud Security Analyst or a Cloud Security Engineer.</p>
 
 - Successfully launched Amazon Linux 2 instance to send files to Amazon CloudWatch.
 - Effectively created Amazon CloudWatch alarms and notifications to alert me to a specified amount of login failures on the EC2 instances.
