@@ -1,10 +1,11 @@
 # Carl Ozan-portfolio
-## Hello beautiful person 
+## Hello, beautiful person 
 
 Aspiring Cybersecurity and Cloud Professional sharing his journey! 🔷
 
 # 💫 Hi, My name is Carl Ozan:
-I'm currently studying to obtain my AWS Cloud Practitioner Certification.<br>I am currently working on building my foundational knowledge with AWS Cloud and some pentesting.
+I'm studying to obtain my AWS Cloud Practitioner Certification.<br>I am working on building my foundational knowledge within AWS Cloud and some pentesting.
+The goal is to leverage this information to help with Cybersecurity.
 
 
 ## 🌐 Socials:
@@ -29,14 +30,18 @@ I'm currently studying to obtain my AWS Cloud Practitioner Certification.<br>I a
 - I have experience with Linux Navigation and Commands, Networking Foundation, Network Protocols, Securit, and Monitoring.</b>
 - Studied some Cryptography, Windows Administration, and viewing System Logs.</b>
 - I'm familiar with attacks, threats, vulnerabilities, architecture and design, implementation, operation and incident response, governance, risk, and compliance.
-
+### Cybersecurity Projects
+- Successfully created a Company profile and established a company overview with resources needed and a network diagram.
+[Company Creation & Infrastructure Desgin](https://www.canva.com/design/DAGeofGQsfs/5mrl2O3Im8_8Ivl2UBhi7A/edit?utm_content=DAGeofGQsfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Developed a Risk Assessment and Countermeasures for a company.
+- Identified and prioritized threats. Established countermeasures for top threats based on the NIST 800 53 Control. [Risk Assessment & Countermeasures](https://www.canva.com/design/DAGeopRWeHU/3U3FlfhcF7WOkYJJ67Scrg/edit?utm_content=DAGeopRWeHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Set up Splunk for my SIEM.
+- Imported log files (access.log, Sysmon.json, VPNlogs.json) and the lookup tables (Flaged_Hash.csv, Flaged_IP.csv) into Splunk.
+- Successfully utilized Splunk to analyze the log files. [Log Investigation & Analysis w/ Splunk](https://www.canva.com/design/DAGeoo06E08/1n_V6p6-tFyYQm4kvb8auw/edit?utm_content=DAGeoo06E08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Cloud Journey
 <p>I discovered cloud computing two years ago; I have been intrigued ever since. I am currently working on my AWS Cloud Practitioner Certification!</p>
-<p> My ultimate goal is to obviously start in an entry-level role and eventually work as a Cloud Security Analyst or a Cloud Security Engineer.</p>
 
 - Successfully launched Amazon Linux 2 instance to send files to Amazon CloudWatch.
 - Effectively created Amazon CloudWatch alarms and notifications to alert me to a specified amount of login failures on the EC2 instances.
-- Lastly, I created a CloudWatch alarm and notification to monitor outgoing traffic through a NAT gateway.
-
-[AWS Security Monitoring](https://www.canva.com/design/DAGa3tjP-rc/9AaE3dp1xefSzgMpdLsZMQ/edit)
+- Lastly, I created a CloudWatch alarm and notification to monitor outgoing traffic through a NAT gateway. [AWS Security Monitoring]([https://www.canva.com/design/DAGa3tjP-rc/9AaE3dp1xefSzgMpdLsZMQ/edit](https://www.canva.com/design/DAGa3tjP-rc/9AaE3dp1xefSzgMpdLsZMQ/edit?utm_content=DAGa3tjP-rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
