@@ -45,3 +45,4 @@ The goal is to leverage this information to help with Cybersecurity.
 - Successfully launched Amazon Linux 2 instance to send files to Amazon CloudWatch.
 - Effectively created Amazon CloudWatch alarms and notifications to alert me to a specified amount of login failures on the EC2 instances.
 - Lastly, I created a CloudWatch alarm and notification to monitor outgoing traffic through a NAT gateway. [AWS Security Monitoring](https://www.canva.com/design/DAGa3tjP-rc/9AaE3dp1xefSzgMpdLsZMQ/edit?utm_content=DAGa3tjP-rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Successfull launched a web server in AWS using Terraform. [AWS Web Server](https://github.com/ccozan/origin.git)
