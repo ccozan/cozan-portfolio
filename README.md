@@ -40,7 +40,7 @@ The goal is to leverage this information to help with Cybersecurity.
 - Successfully utilized Splunk to analyze the log files. [Log Investigation & Analysis w/ Splunk](https://www.canva.com/design/DAGeoo06E08/1n_V6p6-tFyYQm4kvb8auw/edit?utm_content=DAGeoo06E08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Cloud Projects
-<p>I discovered cloud computing two years ago; I have been intrigued ever since. I am currently working on my AWS Cloud Practitioner Certification!</p>
+<p>I discovered cloud computing two years ago; I have been intrigued ever since. I obtained my AWS Cloud Practitioner Certification in May 2025!</p>
 
 - Successfully launched Amazon Linux 2 instance to send files to Amazon CloudWatch.
 - Effectively created Amazon CloudWatch alarms and notifications to alert me to a specified amount of login failures on the EC2 instances.
