@@ -1,10 +1,10 @@
 # Carl Ozan-portfolio
-## Hello, beautiful person 
+## Hello,
 
-Aspiring Cybersecurity and Cloud Professional sharing his journey! 🔷
+Aspiring Cybersecurity and Cloud Security Professional sharing his journey! 🔷
 
-# 💫 Hi, My name is Carl Ozan:
-I'm studying to obtain my AWS Cloud Practitioner Certification.<br>I am working on building my foundational knowledge within AWS Cloud and some pentesting.
+# 💫 Hi, my name is Carl Ozan:
+I'm have obtained my AWS Cloud Practitioner Certification, CompTIA Security+. <br>I am working on building my foundational knowledge within AWS Cloud, working on Cybersecurity Threat Hunting and Detection, GRC and some pentesting.
 The goal is to leverage this information to help with Cybersecurity.
 
 
@@ -24,7 +24,8 @@ The goal is to leverage this information to help with Cybersecurity.
 
 ## Cybersecurity Journey
 <p> Attended Masterschool Cybersecurity Bootcamp from January 2023 to December 2023.</p>
-<p> I obtained my CompTIA Security+ on November 27, 2023</b>
+<p> I obtained my CompTIA Security+ on November 27, 2023</p>
+<p> I obtained my AWS Cloud Practitioner Certification in May of 2025</b>
 
 - I studied Security, IT, and Windows Foundations.</b>
 - I have experience with Linux Navigation and Commands, Networking Foundation, Network Protocols, Securit, and Monitoring.</b>
