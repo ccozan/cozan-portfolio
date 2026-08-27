@@ -1,7 +1,7 @@
 # Carl Ozan-portfolio
 ## Hello,
 
-Aspiring Cybersecurity and Cloud Security Professional sharing his journey! 🔷
+Aspiring GRC, and Cloud Security Professional sharing his journey! 🔷
 
 # 💫 Hi, my name is Carl Ozan:
 I'm have obtained my AWS Cloud Practitioner Certification, CompTIA Security+. <br>I am working on building my foundational knowledge within AWS Cloud, working on Cybersecurity Threat Hunting and Detection, GRC and some pentesting.
