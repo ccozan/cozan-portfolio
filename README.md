@@ -39,6 +39,7 @@ The goal is to leverage this information to help with Cybersecurity.
 - Set up Splunk for my SIEM.
 - Imported log files (access.log, Sysmon.json, VPNlogs.json) and the lookup tables (Flaged_Hash.csv, Flaged_IP.csv) into Splunk.
 - Successfully utilized Splunk to analyze the log files. [Log Investigation & Analysis w/ Splunk](https://www.canva.com/design/DAGeoo06E08/1n_V6p6-tFyYQm4kvb8auw/edit?utm_content=DAGeoo06E08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-  Built an AWS-based threat hunting environment using Splunk, Zeek, CloudTrail, and VPC Flow Logs. Analyzed HTTP and network telemetry for suspicious beaconing patterns and repeated communications. Developed SPL-based investigations and dashboards to support SOC threat hunting and detection analysis. [AWS Zeek Threat Hunting & Detection Lab](https://github.com/ccozan/aws-zeek-threat-hunting-lab?utm_source=chatgpt.com)
 
 ## Cloud Projects
 <p>I discovered cloud computing two years ago; I have been intrigued ever since. I obtained my AWS Cloud Practitioner Certification in May 2025!</p>
