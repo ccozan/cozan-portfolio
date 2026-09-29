@@ -1,4 +1,45 @@
 # Carl Ozan-portfolio
+
+# 🛡️ Featured Cybersecurity Projects
+
+## 🔎 AWS Zeek Threat Hunting & Detection Lab
+
+Cloud-based threat hunting and detection engineering lab using **AWS, Splunk, Zeek, CloudTrail, and VPC Flow Logs**.
+
+### Highlights
+- Built an AWS-based security monitoring and threat-hunting environment using Splunk, Zeek, CloudTrail, and VPC Flow Logs
+- Developed SPL detections for suspicious HTTP activity and beaconing
+- Investigated 2,882 HTTP events and identified approximately 30-second periodic communication
+- Correlated `conn.log`, `http.log`, and `files.log` telemetry during SOC investigation
+- Built a Splunk AWS security and threat-hunting dashboard
+- Documented evidence, IOCs, MITRE ATT&CK mapping, analyst conclusions, and response recommendations
+
+### Featured SOC Investigation
+
+**Potential HTTP Beaconing**
+
+Performed an alert → investigation → conclusion workflow using Splunk and Zeek telemetry to investigate repeated HTTP communication between an internal endpoint and external destination.
+
+➡️ **[View the AWS Zeek Threat Hunting & Detection Lab](https://github.com/ccozan/aws-zeek-threat-hunting-lab)**
+
+➡️ **[View the Potential HTTP Beaconing SOC Investigation](https://github.com/ccozan/aws-zeek-threat-hunting-lab/blob/main/investigations/potential-http-beaconing.md)**
+
+---
+
+## ☁️ AWS Terraform Web Server
+
+Deployed AWS infrastructure using Terraform, including networking, security groups, and an EC2-hosted web server.
+
+➡️ **[View Project](YOUR_EXISTING_TERRAFORM_REPOSITORY_LINK)**
+
+---
+
+## 🔐 Splunk Security Log Investigation
+
+Used Splunk to analyze security telemetry including Sysmon, VPN, and web access logs and investigate suspicious activity.
+
+➡️ **View project evidence below**
+
 ## Hello,
 
 Aspiring GRC, and Cloud Security Professional sharing his journey! 🔷
