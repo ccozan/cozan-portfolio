@@ -72,10 +72,10 @@ The goal is to leverage this information to help with Cybersecurity.
 - I have experience with Linux Navigation and Commands, Networking Foundation, Network Protocols, Securit, and Monitoring.</b>
 - Studied some Cryptography, Windows Administration, and viewing System Logs.</b>
 - I'm familiar with attacks, threats, vulnerabilities, architecture and design, implementation, operation and incident response, governance, risk, and compliance.
+- 
 ### Cybersecurity Projects
 - Successfully created a Company profile and established a company overview with resources needed and a network diagram.
 [Company Creation & Infrastructure Desgin](https://www.canva.com/design/DAGeofGQsfs/5mrl2O3Im8_8Ivl2UBhi7A/edit?utm_content=DAGeofGQsfs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Developed a Risk Assessment and Countermeasures for a company.
 - Identified and prioritized threats. Established countermeasures for top threats based on the NIST 800 53 Control. [Risk Assessment & Countermeasures](https://www.canva.com/design/DAGeopRWeHU/3U3FlfhcF7WOkYJJ67Scrg/edit?utm_content=DAGeopRWeHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Set up Splunk for my SIEM.
 - Imported log files (access.log, Sysmon.json, VPNlogs.json) and the lookup tables (Flaged_Hash.csv, Flaged_IP.csv) into Splunk.
